@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A shell script to convert a bunch of scaned A4 images to a (merged) PDF.
+A shell script to convert a bunch of scaned A4 images to a single (merged) PDF.
 
 ## Why is that useful?
 
