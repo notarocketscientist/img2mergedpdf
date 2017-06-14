@@ -1,4 +1,4 @@
-# Scalepix
+# Img2mergedpdf
 
 ## What is it?
 
